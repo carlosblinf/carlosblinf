@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about microservices and microfrontend arquitecture**
 
-- 💬 Ask me about **react and java develop**
+- 💬 Ask me about **react, nodejs and java develop**
 
 - 📫 How to reach me **carlosblinf@gmail.com**
 
