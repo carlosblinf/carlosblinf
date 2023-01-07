@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlosblinf" target="blank"><img src="https://img.shields.io/twitter/follow/carlosblinf?logo=twitter&style=for-the-badge" alt="carlosblinf" /></a> </p>
 
-- 🌱 I’m currently learning **more about microservices and microfrontend arquitecture**
+- 🌱 I’m currently learning **more about microservices, microfrontend and clean architecture**
 
 - 💬 Ask me about **react, nodejs and java develop**
 
