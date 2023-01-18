@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carlosblinf&show_icons=true&locale=en&layout=compact" alt="carlosblinf" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosblinf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
