@@ -21,3 +21,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosblinf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align='center'>Profile Visits<p>
+<p align='center'><a href='https://github.com/carlosblinf'><img src='https://profile-counter.glitch.me/{YOUR USER}/count.svg' alt='Visitor Count'></a></p>
